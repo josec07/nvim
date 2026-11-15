@@ -9,5 +9,6 @@
   "lazygit.nvim": { "branch": "main", "commit": "9ffc6103926718f7070fb4017694543cd7dc9718" },
   "lspkind.nvim": { "branch": "master", "commit": "c7274c48137396526b59d86232eabcdc7fed8a32" },
   "nvim-cmp": { "branch": "main", "commit": "fe29aba4117227a6df637bc41e4b4fb4e98864a0" },
-  "nvim-lspconfig": { "branch": "master", "commit": "05588aab66016c6836634b87ca2d392d097515f2" }
+  "nvim-lspconfig": { "branch": "master", "commit": "05588aab66016c6836634b87ca2d392d097515f2" },
+  "plenary.nvim": { "branch": "master", "commit": "74b06c6c75e4eeb3108ec01852001636d85a932b" }
 }
